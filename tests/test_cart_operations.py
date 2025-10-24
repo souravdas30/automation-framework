@@ -67,7 +67,7 @@ class TestCartOperations:
     @pytest.mark.cart
     def test_cart_empty_state(self, browser):
         """Test empty cart behavior"""
-        print("🧪 Testing: Empty cart state")
+        print("Testing: Empty cart state")
         
         # Go directly to empty cart
         browser.get("https://practice.automationtesting.in/cart/")
