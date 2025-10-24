@@ -40,5 +40,3 @@ This framework is built using:
 
 #### Negative Test Cases:
 1. **test_address_with_missing_required_fields**: Verify validation for required address fields
-
-## Project Structure
